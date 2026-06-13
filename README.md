@@ -1,16 +1,44 @@
-# React + Vite
+# Ali Mohamadi — Design Engineer & Maker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Personal portfolio showcasing mechanical design, FPV drone videography, precision fabrication, and engineering capabilities.
 
-Currently, two official plugins are available:
+## About Me
+Design engineer and drone videographer. Hands-on experience with mechanical design, FPV cinematography, precision laser fabrication, composite engineering, and problem-solving across mechanical systems.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**Skills:**
+- FPV Drone Cinematography (DJI Avata 2)
+- Precision Laser Engraving & Marking (xTool F1 Fiber)
+- Carbon Fiber & Composite Fabrication (3D scanning, layup, assembly)
+- Mechanical Design (SolidWorks, FEA, CAM)
+- Product Prototyping & Problem-Solving
 
-## React Compiler
+## Tech Stack
+- **React 19** + **Vite**
+- Pure CSS (no frameworks)
+- Responsive design for all devices
+- Custom animations & interactions
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Local Development
 
-## Expanding the ESLint configuration
+```bash
+npm install
+npm run dev       # http://localhost:5173
+npm run build     # Production build
+npm preview       # Preview production build
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Customization
+
+Edit `src/App.jsx` to update:
+- **Portfolio items** — Replace with your actual projects
+- **Skills section** — Update equipment, software, capabilities
+- **About section** — Personalize your bio and experience
+- **Contact form** — Wire up to EmailJS, Formspree, or your backend
+
+## Deployment
+
+Deployed via **Vercel** with automatic updates from GitHub.
+
+---
+
+Built with precision. Made to last.
